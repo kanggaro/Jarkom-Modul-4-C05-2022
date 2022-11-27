@@ -7,3 +7,8 @@ NRP|Nama|
 5025201156 | Nazhifah Elqolbyi 
 
 ### Laporan Resmi 
+
+#### Topologi Soal
+
+
+#### VLSM (Variable Length Subnet Masking)
